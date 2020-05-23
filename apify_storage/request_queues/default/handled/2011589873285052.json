@@ -1,0 +1,14 @@
+{
+    "id": "Y8v2NygOKdlGdJZ",
+    "url": "https://www.amazon.com/gp/css/returns/homepage.html?ie=UTF8&ref_=footer_hy_f_4",
+    "loadedUrl": "https://www.amazon.com/ap/signin?clientContext=134-4436067-6272643&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fspr%2Freturns&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=amzn_psr_mobile_us&openid.mode=checkid_setup&marketPlaceId=ATVPDKIKX0DER&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&pageId=Amazon&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.pape.max_auth_age=3600&siteState=clientContext%3D144-4661266-5983827%2CsourceUrl%3Dhttps%253A%252F%252Fwww.amazon.com%252Fspr%252Freturns%2Csignature%3DvKsap3lPHDR3Y9bBrnthBYckqzcj3D",
+    "uniqueKey": "https://www.amazon.com/gp/css/returns/homepage.html?ie=UTF8&ref_=footer_hy_f_4",
+    "method": "GET",
+    "payload": null,
+    "noRetry": false,
+    "retryCount": 0,
+    "errorMessages": null,
+    "headers": {},
+    "userData": {},
+    "handledAt": "2020-05-19T07:28:48.664Z"
+}

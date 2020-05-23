@@ -1,0 +1,14 @@
+{
+    "id": "WsjPFgHPw0HlRQY",
+    "url": "https://www.amazon.com/business?_encoding=UTF8&ref_=footer_retail_b2b",
+    "loadedUrl": "https://business.amazon.com/?_encoding=UTF8&ref_=footer_retail_b2b",
+    "uniqueKey": "https://www.amazon.com/business?_encoding=UTF8&ref_=footer_retail_b2b",
+    "method": "GET",
+    "payload": null,
+    "noRetry": false,
+    "retryCount": 0,
+    "errorMessages": null,
+    "headers": {},
+    "userData": {},
+    "handledAt": "2020-05-19T07:28:58.468Z"
+}

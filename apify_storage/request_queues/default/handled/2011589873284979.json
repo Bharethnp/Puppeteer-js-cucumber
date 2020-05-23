@@ -1,0 +1,14 @@
+{
+    "id": "nPf8Qa452adIUMa",
+    "url": "https://www.amazon.com/gp/your-garage/?ref_=nav_AccountFlyout_au_pf_as_GNO",
+    "loadedUrl": "https://www.amazon.com/gp/your-garage/?ref_=nav_AccountFlyout_au_pf_as_GNO",
+    "uniqueKey": "https://www.amazon.com/gp/your-garage?ref_=nav_AccountFlyout_au_pf_as_GNO",
+    "method": "GET",
+    "payload": null,
+    "noRetry": false,
+    "retryCount": 0,
+    "errorMessages": null,
+    "headers": {},
+    "userData": {},
+    "handledAt": "2020-05-19T07:28:22.766Z"
+}

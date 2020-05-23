@@ -1,0 +1,14 @@
+{
+    "id": "1qZSU7CqZ1G0Esb",
+    "url": "https://www.amazon.com/prime/ref=nav_tooltip_redirect/144-4661266-5983827",
+    "loadedUrl": "https://www.amazon.com/amazonprime?_encoding=UTF8&%2AVersion%2A=1&%2Aentries%2A=0&primeCampaignId=primeMobileSignupWhite&renderingType=mobile&showLandingPage=1",
+    "uniqueKey": "https://www.amazon.com/prime/ref=nav_tooltip_redirect/144-4661266-5983827",
+    "method": "GET",
+    "payload": null,
+    "noRetry": false,
+    "retryCount": 0,
+    "errorMessages": null,
+    "headers": {},
+    "userData": {},
+    "handledAt": "2020-05-19T07:28:36.845Z"
+}

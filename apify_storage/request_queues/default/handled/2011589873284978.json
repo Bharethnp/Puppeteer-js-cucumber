@@ -1,0 +1,14 @@
+{
+    "id": "YY1ts5Wtgh482Km",
+    "url": "https://www.amazon.com/localservices/ya/servicerequests?ref_=nav_AccountFlyout_desktop_vas_requestlist",
+    "loadedUrl": "https://www.amazon.com/ap/signin?clientContext=134-4436067-6272643&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Flocalservices%2Fya%2Fap-post-redirect%3FsiteState%3DclientContext%253D144-4661266-5983827%252CsourceUrl%253Dhttps%25253A%25252F%25252Fwww.amazon.com%25252Flocalservices%25252Fya%25252Fservicerequests%25253Fref_%25253Dnav_AccountFlyout_desktop_vas_requestlist%252Csignature%253DaIEYcuhxbpsIlZK1PQd21h92Xnsj3D&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=amzn_vas_us&openid.mode=checkid_setup&marketPlaceId=ATVPDKIKX0DER&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&pageId=amzn_vas_us&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.pape.max_auth_age=3600",
+    "uniqueKey": "https://www.amazon.com/localservices/ya/servicerequests?ref_=nav_AccountFlyout_desktop_vas_requestlist",
+    "method": "GET",
+    "payload": null,
+    "noRetry": false,
+    "retryCount": 0,
+    "errorMessages": null,
+    "headers": {},
+    "userData": {},
+    "handledAt": "2020-05-19T07:28:23.323Z"
+}

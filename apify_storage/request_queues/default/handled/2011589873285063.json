@@ -1,0 +1,14 @@
+{
+    "id": "ch8SI7u0jCwTslK",
+    "url": "https://www.amazon.com/gp/redirect.html?_encoding=UTF8&location=https%3A%2F%2Fsell.amazon.com%2F%3Fld%3DAZUSSOA-footer-aff%26ref_%3Dfooter_sell&source=standards&token=5C1C6935C910A355A9EFF638456512B3EE3E32AC",
+    "loadedUrl": "https://sell.amazon.com/?ld=AZUSSOA-footer-aff&ref_=footer_sell",
+    "uniqueKey": "https://www.amazon.com/gp/redirect.html?_encoding=UTF8&location=https%3A%2F%2Fsell.amazon.com%2F%3Fld%3DAZUSSOA-footer-aff%26ref_%3Dfooter_sell&source=standards&token=5C1C6935C910A355A9EFF638456512B3EE3E32AC",
+    "method": "GET",
+    "payload": null,
+    "noRetry": false,
+    "retryCount": 0,
+    "errorMessages": null,
+    "headers": {},
+    "userData": {},
+    "handledAt": "2020-05-19T07:28:56.090Z"
+}

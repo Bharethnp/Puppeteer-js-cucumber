@@ -1,0 +1,14 @@
+{
+    "url": "https://www.amazon.com/gp/redirect.html?_encoding=UTF8&location=https%3A%2F%2Fsmile.amazon.com%2Fap%2Fsignin%3Fopenid.assoc_handle%3Damzn_smile%26openid.claimed_id%3Dhttp%253A%252F%252Fspecs.openid.net%252Fauth%252F2.0%252Fidentifier_select%26openid.identity%3Dhttp%253A%252F%252Fspecs.openid.net%252Fauth%252F2.0%252Fidentifier_select%26openid.mode%3Dcheckid_setup%26openid.ns%3Dhttp%253A%252F%252Fspecs.openid.net%252Fauth%252F2.0%26openid.ns.pape%3Dhttp%253A%252F%252Fspecs.openid.net%252Fextensions%252Fpape%252F1.0%26openid.pape.max_auth_age%3D0%26openid.return_to%3Dhttps%253A%252F%252Fsmile.amazon.com%252Fgp%252Fchpf%252Fhomepage%252Fref%253Dsmi_cl_join_ap_smi%253Fie%253DUTF8%2526orig%253D%25252Fgp%25252Fclpf&source=standards&token=7C4ADB7B0B61C59B2B9F486C1A97590A08F75EB6",
+    "loadedUrl": null,
+    "uniqueKey": "https://www.amazon.com/gp/redirect.html?_encoding=UTF8&location=https%3A%2F%2Fsmile.amazon.com%2Fap%2Fsignin%3Fopenid.assoc_handle%3Damzn_smile%26openid.claimed_id%3Dhttp%253A%252F%252Fspecs.openid.net%252Fauth%252F2.0%252Fidentifier_select%26openid.identity%3Dhttp%253A%252F%252Fspecs.openid.net%252Fauth%252F2.0%252Fidentifier_select%26openid.mode%3Dcheckid_setup%26openid.ns%3Dhttp%253A%252F%252Fspecs.openid.net%252Fauth%252F2.0%26openid.ns.pape%3Dhttp%253A%252F%252Fspecs.openid.net%252Fextensions%252Fpape%252F1.0%26openid.pape.max_auth_age%3D0%26openid.return_to%3Dhttps%253A%252F%252Fsmile.amazon.com%252Fgp%252Fchpf%252Fhomepage%252Fref%253Dsmi_cl_join_ap_smi%253Fie%253DUTF8%2526orig%253D%25252Fgp%25252Fclpf&source=standards&token=7C4ADB7B0B61C59B2B9F486C1A97590A08F75EB6",
+    "method": "GET",
+    "payload": null,
+    "noRetry": false,
+    "retryCount": 0,
+    "errorMessages": null,
+    "headers": {},
+    "userData": {},
+    "handledAt": null,
+    "id": "kGy87bDbWjpdFtB"
+}

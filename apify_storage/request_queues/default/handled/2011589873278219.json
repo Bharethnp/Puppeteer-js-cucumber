@@ -1,0 +1,14 @@
+{
+    "id": "CfC8yRBmPkOqzf4",
+    "url": "https://www.amazon.com/",
+    "loadedUrl": "https://www.amazon.com/",
+    "uniqueKey": "https://www.amazon.com",
+    "method": "GET",
+    "payload": null,
+    "noRetry": false,
+    "retryCount": 0,
+    "errorMessages": null,
+    "headers": {},
+    "userData": {},
+    "handledAt": "2020-05-19T07:28:05.036Z"
+}

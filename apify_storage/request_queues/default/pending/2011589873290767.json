@@ -1,0 +1,14 @@
+{
+    "url": "https://www.amazon.com/gp/sign-in.html/ref=ord_cart_unrec_signin?path=%2Fgp%2Fcart%2Fview.html%2Fref%3Dord_cart_shr%3Fapp-nav-type%3Dnone%26dc%3Ddf&useRedirectOnSuccess=1",
+    "loadedUrl": null,
+    "uniqueKey": "https://www.amazon.com/gp/sign-in.html/ref=ord_cart_unrec_signin?path=%2Fgp%2Fcart%2Fview.html%2Fref%3Dord_cart_shr%3Fapp-nav-type%3Dnone%26dc%3Ddf&useRedirectOnSuccess=1",
+    "method": "GET",
+    "payload": null,
+    "noRetry": false,
+    "retryCount": 0,
+    "errorMessages": null,
+    "headers": {},
+    "userData": {},
+    "handledAt": null,
+    "id": "BPh7crqwFflLfWZ"
+}

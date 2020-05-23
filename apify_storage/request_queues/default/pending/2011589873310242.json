@@ -1,0 +1,14 @@
+{
+    "url": "https://www.amazon.com/gp/video/storefront/ref=nav_shopall_nav_sa_aos?filterId=OFFER_FILTER%3DSUBSCRIPTIONS",
+    "loadedUrl": null,
+    "uniqueKey": "https://www.amazon.com/gp/video/storefront/ref=nav_shopall_nav_sa_aos?filterId=OFFER_FILTER%3DSUBSCRIPTIONS",
+    "method": "GET",
+    "payload": null,
+    "noRetry": false,
+    "retryCount": 0,
+    "errorMessages": null,
+    "headers": {},
+    "userData": {},
+    "handledAt": null,
+    "id": "c6rtGFiRsctjGze"
+}

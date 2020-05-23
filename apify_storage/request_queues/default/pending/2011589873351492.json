@@ -1,0 +1,14 @@
+{
+    "url": "https://www.amazon.com/prime?ref_=nav_logo_prime_join",
+    "loadedUrl": null,
+    "uniqueKey": "https://www.amazon.com/prime?ref_=nav_logo_prime_join",
+    "method": "GET",
+    "payload": null,
+    "noRetry": false,
+    "retryCount": 0,
+    "errorMessages": null,
+    "headers": {},
+    "userData": {},
+    "handledAt": null,
+    "id": "AEIEjEQJGXHsqjD"
+}

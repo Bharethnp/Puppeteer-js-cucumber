@@ -1,0 +1,14 @@
+{
+    "id": "WfbJ5Rei8kGnvF3",
+    "url": "https://www.amazon.com/services?_encoding=UTF8&ref_=footer_services",
+    "loadedUrl": "https://www.amazon.com/gp/browse.html/ref=vas_sf_load_?node=8098158011",
+    "uniqueKey": "https://www.amazon.com/services?_encoding=UTF8&ref_=footer_services",
+    "method": "GET",
+    "payload": null,
+    "noRetry": false,
+    "retryCount": 0,
+    "errorMessages": null,
+    "headers": {},
+    "userData": {},
+    "handledAt": "2020-05-19T07:28:56.148Z"
+}

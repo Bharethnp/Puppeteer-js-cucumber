@@ -1,0 +1,14 @@
+{
+    "id": "7hM62k1khqwgyro",
+    "url": "https://www.amazon.com/gift-cards/b/?ie=UTF8&node=2238192011&ref_=nav_cs_gc",
+    "loadedUrl": "https://www.amazon.com/gift-cards/b/?ie=UTF8&node=2238192011&ref_=nav_cs_gc",
+    "uniqueKey": "https://www.amazon.com/gift-cards/b?ie=UTF8&node=2238192011&ref_=nav_cs_gc",
+    "method": "GET",
+    "payload": null,
+    "noRetry": false,
+    "retryCount": 0,
+    "errorMessages": null,
+    "headers": {},
+    "userData": {},
+    "handledAt": "2020-05-19T07:28:33.578Z"
+}

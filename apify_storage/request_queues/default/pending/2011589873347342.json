@@ -1,0 +1,14 @@
+{
+    "url": "https://www.amazon.com/ap/forgotpassword?showRememberMe=true&openid.pape.max_auth_age=0&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&pageId=anywhere_us&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fcustomer-preferences%2Fselect-language%2Fref%3Dnav_ya_signin%3FpreferencesReturnUrl%3D%252F&prevRID=W17TG35PFMDYH2HY9JGM&openid.assoc_handle=anywhere_v2_us&openid.mode=checkid_setup&prepopulatedLoginId=&failedSignInCount=0&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0",
+    "loadedUrl": null,
+    "uniqueKey": "https://www.amazon.com/ap/forgotpassword?failedSignInCount=0&openid.assoc_handle=anywhere_v2_us&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fcustomer-preferences%2Fselect-language%2Fref%3Dnav_ya_signin%3FpreferencesReturnUrl%3D%252F&pageId=anywhere_us&prepopulatedLoginId=&prevRID=W17TG35PFMDYH2HY9JGM&showRememberMe=true",
+    "method": "GET",
+    "payload": null,
+    "noRetry": false,
+    "retryCount": 0,
+    "errorMessages": null,
+    "headers": {},
+    "userData": {},
+    "handledAt": null,
+    "id": "iOBnzkattk2pYCf"
+}

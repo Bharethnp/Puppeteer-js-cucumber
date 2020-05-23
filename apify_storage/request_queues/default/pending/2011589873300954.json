@@ -1,0 +1,14 @@
+{
+    "url": "https://www.amazon.com/gp/video/subscriptions/manage?ref_=ya_d_l_myvs",
+    "loadedUrl": null,
+    "uniqueKey": "https://www.amazon.com/gp/video/subscriptions/manage?ref_=ya_d_l_myvs",
+    "method": "GET",
+    "payload": null,
+    "noRetry": false,
+    "retryCount": 0,
+    "errorMessages": null,
+    "headers": {},
+    "userData": {},
+    "handledAt": null,
+    "id": "9mghc1Rkgdk4Fmo"
+}

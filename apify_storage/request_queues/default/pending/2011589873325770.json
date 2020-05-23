@@ -1,0 +1,14 @@
+{
+    "url": "https://www.amazon.com/gp/redirect.html?_encoding=UTF8&source=standards&token=5C1C6935C910A355A9EFF638456512B3EE3E32AC&location=https%3A%2F%2Fsell.amazon.com%2F%3Fref_%3Dfooter_sell%26ld%3DAZUSSOA-sell",
+    "loadedUrl": null,
+    "uniqueKey": "https://www.amazon.com/gp/redirect.html?_encoding=UTF8&location=https%3A%2F%2Fsell.amazon.com%2F%3Fref_%3Dfooter_sell%26ld%3DAZUSSOA-sell&source=standards&token=5C1C6935C910A355A9EFF638456512B3EE3E32AC",
+    "method": "GET",
+    "payload": null,
+    "noRetry": false,
+    "retryCount": 0,
+    "errorMessages": null,
+    "headers": {},
+    "userData": {},
+    "handledAt": null,
+    "id": "tKh2vp6VEaQgFSo"
+}

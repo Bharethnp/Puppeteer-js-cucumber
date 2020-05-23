@@ -1,0 +1,14 @@
+{
+    "url": "https://www.amazon.com/ap/signin?_encoding=UTF8&openid.assoc_handle=usflex&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%3F_encoding%3DUTF8%26clientAddress%3D106.51.29.236%26clientID%3D134-4436067-6272643%26gurupaFlush%3D1%26internal%3D0%26language%3Den_US%26marketplaceID%3DATVPDKIKX0DER%26pageType%3Dexports-gateway-phone-web%26parameters%3DHASH%25280x8c8aa180%2529%26platform%3DiOS%26secure%3D1%26securePort%3D443%26serverName%3Dwww.amazon.com%26sessionID%3D144-4661266-5983827%26userAgent%3DMozilla%252F5.0%2520%2528iPhone%253B%2520CPU%2520iPhone%2520OS%25208_0%2520like%2520Mac%2520OS%2520X%2529%2520AppleWebKit%252F600.1.4%2520%2528KHTML%252C%2520like%2520Gecko%2529%2520Version%252F8.0%2520Mobile%252F12A365%2520Safari%252F600.1.4%2520%2528Streamlined%2529&pf_rd_s=grid-top-4&pf_rd_t=Gateway-AmazonGlobal&pf_rd_i=mobile&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=3PVERK9CXVD6P6G5CZDT&pf_rd_p=16d28ddb-b1a7-43ca-ab4d-b36bc24fdbae&ref_=gwm_sic_sib",
+    "loadedUrl": null,
+    "uniqueKey": "https://www.amazon.com/ap/signin?_encoding=UTF8&openid.assoc_handle=usflex&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%3F_encoding%3DUTF8%26clientAddress%3D106.51.29.236%26clientID%3D134-4436067-6272643%26gurupaFlush%3D1%26internal%3D0%26language%3Den_US%26marketplaceID%3DATVPDKIKX0DER%26pageType%3Dexports-gateway-phone-web%26parameters%3DHASH%25280x8c8aa180%2529%26platform%3DiOS%26secure%3D1%26securePort%3D443%26serverName%3Dwww.amazon.com%26sessionID%3D144-4661266-5983827%26userAgent%3DMozilla%252F5.0%2520%2528iPhone%253B%2520CPU%2520iPhone%2520OS%25208_0%2520like%2520Mac%2520OS%2520X%2529%2520AppleWebKit%252F600.1.4%2520%2528KHTML%252C%2520like%2520Gecko%2529%2520Version%252F8.0%2520Mobile%252F12A365%2520Safari%252F600.1.4%2520%2528Streamlined%2529&pf_rd_i=mobile&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=16d28ddb-b1a7-43ca-ab4d-b36bc24fdbae&pf_rd_r=3PVERK9CXVD6P6G5CZDT&pf_rd_s=grid-top-4&pf_rd_t=Gateway-AmazonGlobal&ref_=gwm_sic_sib",
+    "method": "GET",
+    "payload": null,
+    "noRetry": false,
+    "retryCount": 0,
+    "errorMessages": null,
+    "headers": {},
+    "userData": {},
+    "handledAt": null,
+    "id": "DIr16y7GBH0IQDn"
+}

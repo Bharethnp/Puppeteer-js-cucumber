@@ -1,0 +1,14 @@
+{
+    "url": "https://www.amazon.com/gp/new-releases/?ref_=nav_cs_newreleases",
+    "loadedUrl": null,
+    "uniqueKey": "https://www.amazon.com/gp/new-releases?ref_=nav_cs_newreleases",
+    "method": "GET",
+    "payload": null,
+    "noRetry": false,
+    "retryCount": 0,
+    "errorMessages": null,
+    "headers": {},
+    "userData": {},
+    "handledAt": null,
+    "id": "TvZ8LTDnQ1g5XWy"
+}

@@ -1,0 +1,14 @@
+{
+    "url": "https://www.amazon.com/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fb%2F%3F_encoding%3DUTF8%26_encoding%3DUTF8%26ld%3DAZUSSOA-seemore%26node%3D18190131011%26ref_%3Dnavm_em_hd_re_signin&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=anywhere_v2_us&openid.mode=checkid_setup&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&&ref_=navm_em_hd_clc_signin",
+    "loadedUrl": null,
+    "uniqueKey": "https://www.amazon.com/ap/signin?&openid.assoc_handle=anywhere_v2_us&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fb%2F%3F_encoding%3DUTF8%26_encoding%3DUTF8%26ld%3DAZUSSOA-seemore%26node%3D18190131011%26ref_%3Dnavm_em_hd_re_signin&ref_=navm_em_hd_clc_signin",
+    "method": "GET",
+    "payload": null,
+    "noRetry": false,
+    "retryCount": 0,
+    "errorMessages": null,
+    "headers": {},
+    "userData": {},
+    "handledAt": null,
+    "id": "HgXiluHjPS82fcw"
+}

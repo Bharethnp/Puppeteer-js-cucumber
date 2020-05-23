@@ -1,0 +1,14 @@
+{
+    "id": "ibjrMyJrHGEA5Je",
+    "url": "https://www.amazon.com/interestbasedads/ref=footer_iba",
+    "loadedUrl": "https://www.amazon.com/gp/help/customer/display.html?nodeId=202075050",
+    "uniqueKey": "https://www.amazon.com/interestbasedads/ref=footer_iba",
+    "method": "GET",
+    "payload": null,
+    "noRetry": false,
+    "retryCount": 0,
+    "errorMessages": null,
+    "headers": {},
+    "userData": {},
+    "handledAt": "2020-05-19T07:28:57.460Z"
+}

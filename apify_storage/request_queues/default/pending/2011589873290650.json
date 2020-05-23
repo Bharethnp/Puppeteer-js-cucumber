@@ -1,0 +1,14 @@
+{
+    "url": "https://www.amazon.com/gp/customer-preferences/select-language/ref=topnav_lang_t1_ais?preferencesReturnUrl=%2Fgp%2Fcart%2Fview.html%3Fref_%3Dnav_cart",
+    "loadedUrl": null,
+    "uniqueKey": "https://www.amazon.com/gp/customer-preferences/select-language/ref=topnav_lang_t1_ais?preferencesReturnUrl=%2Fgp%2Fcart%2Fview.html%3Fref_%3Dnav_cart",
+    "method": "GET",
+    "payload": null,
+    "noRetry": false,
+    "retryCount": 0,
+    "errorMessages": null,
+    "headers": {},
+    "userData": {},
+    "handledAt": null,
+    "id": "rGvPbI52zL5jTkx"
+}

@@ -1,0 +1,14 @@
+{
+    "url": "https://www.amazon.com/gp/redirect.html?location=https%3A%2F%2Fpay.amazon.com%2Fus%2Fshopper%3Fref_%3Dya_d_l_payments_acct&source=nav_linktree&token=8012A92D45F093C2F4E100F6123AF13C865418A3",
+    "loadedUrl": null,
+    "uniqueKey": "https://www.amazon.com/gp/redirect.html?location=https%3A%2F%2Fpay.amazon.com%2Fus%2Fshopper%3Fref_%3Dya_d_l_payments_acct&source=nav_linktree&token=8012A92D45F093C2F4E100F6123AF13C865418A3",
+    "method": "GET",
+    "payload": null,
+    "noRetry": false,
+    "retryCount": 0,
+    "errorMessages": null,
+    "headers": {},
+    "userData": {},
+    "handledAt": null,
+    "id": "oU5kzUD2JiSKjVr"
+}

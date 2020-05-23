@@ -1,0 +1,14 @@
+{
+    "id": "kP06qdAe2J2cCWC",
+    "url": "https://www.amazon.com/gp/registry/wishlist?triggerElementID=createList&ref_=nav_ListFlyout_create",
+    "loadedUrl": "https://www.amazon.com/gp/registry/wishlist?ref_=nav_ListFlyout_create",
+    "uniqueKey": "https://www.amazon.com/gp/registry/wishlist?ref_=nav_ListFlyout_create&triggerElementID=createList",
+    "method": "GET",
+    "payload": null,
+    "noRetry": false,
+    "retryCount": 0,
+    "errorMessages": null,
+    "headers": {},
+    "userData": {},
+    "handledAt": "2020-05-19T07:28:11.438Z"
+}

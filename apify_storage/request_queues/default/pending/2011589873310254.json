@@ -1,0 +1,14 @@
+{
+    "url": "https://www.amazon.com/gp/video/storefront/ref=atv_tc_td?contentType=merch&merchId=deals",
+    "loadedUrl": null,
+    "uniqueKey": "https://www.amazon.com/gp/video/storefront/ref=atv_tc_td?contentType=merch&merchId=deals",
+    "method": "GET",
+    "payload": null,
+    "noRetry": false,
+    "retryCount": 0,
+    "errorMessages": null,
+    "headers": {},
+    "userData": {},
+    "handledAt": null,
+    "id": "tya9BEvyofqBAKs"
+}

@@ -1,0 +1,14 @@
+{
+    "url": "https://www.amazon.com/gp/wallet",
+    "loadedUrl": null,
+    "uniqueKey": "https://www.amazon.com/gp/wallet",
+    "method": "GET",
+    "payload": null,
+    "noRetry": false,
+    "retryCount": 0,
+    "errorMessages": null,
+    "headers": {},
+    "userData": {},
+    "handledAt": null,
+    "id": "XbwUVIyU7zkxMnb"
+}

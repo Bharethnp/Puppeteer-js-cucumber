@@ -1,0 +1,14 @@
+{
+    "id": "y78Ib9qehJYrp3Y",
+    "url": "https://www.amazon.com/gp/prime/ref=nav_prime_ajax_err",
+    "loadedUrl": "https://www.amazon.com/amazonprime?_encoding=UTF8&primeCampaignId=primeMobileSignupWhite&ref_=nav_prime_ajax_err&renderingType=mobile&showLandingPage=1",
+    "uniqueKey": "https://www.amazon.com/gp/prime/ref=nav_prime_ajax_err",
+    "method": "GET",
+    "payload": null,
+    "noRetry": false,
+    "retryCount": 0,
+    "errorMessages": null,
+    "headers": {},
+    "userData": {},
+    "handledAt": "2020-05-19T07:29:00.292Z"
+}

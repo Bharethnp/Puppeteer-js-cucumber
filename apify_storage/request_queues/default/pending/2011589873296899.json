@@ -1,0 +1,14 @@
+{
+    "url": "https://www.amazon.com/ap/forgotpassword?showRememberMe=true&showRmrMe=1&openid.pape.max_auth_age=0&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&pageId=usflex&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fpantry%2Fyourlists%3Fie%3DUTF8%26ref_%3Dnav_ListFlyout_pntry_gno&prevRID=K3QWTFKV9D0VVQ89RBZV&openid.assoc_handle=usflex&openid.mode=checkid_setup&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&prepopulatedLoginId=&failedSignInCount=0&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0",
+    "loadedUrl": null,
+    "uniqueKey": "https://www.amazon.com/ap/forgotpassword?failedSignInCount=0&openid.assoc_handle=usflex&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fpantry%2Fyourlists%3Fie%3DUTF8%26ref_%3Dnav_ListFlyout_pntry_gno&pageId=usflex&prepopulatedLoginId=&prevRID=K3QWTFKV9D0VVQ89RBZV&showRememberMe=true&showRmrMe=1",
+    "method": "GET",
+    "payload": null,
+    "noRetry": false,
+    "retryCount": 0,
+    "errorMessages": null,
+    "headers": {},
+    "userData": {},
+    "handledAt": null,
+    "id": "Jtm3Z7gytSYvZ6m"
+}

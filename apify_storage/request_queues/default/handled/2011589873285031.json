@@ -1,0 +1,14 @@
+{
+    "id": "fCA2rgRY93xKnOe",
+    "url": "https://www.amazon.com/amazon-devices/b?ie=UTF8&node=2102313011&ref_=footer_devices",
+    "loadedUrl": "https://www.amazon.com/amazon-devices/b?ie=UTF8&node=2102313011&ref_=footer_devices",
+    "uniqueKey": "https://www.amazon.com/amazon-devices/b?ie=UTF8&node=2102313011&ref_=footer_devices",
+    "method": "GET",
+    "payload": null,
+    "noRetry": false,
+    "retryCount": 0,
+    "errorMessages": null,
+    "headers": {},
+    "userData": {},
+    "handledAt": "2020-05-19T07:28:41.364Z"
+}

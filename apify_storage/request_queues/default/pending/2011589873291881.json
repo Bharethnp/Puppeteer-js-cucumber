@@ -1,0 +1,14 @@
+{
+    "url": "https://www.amazon.com/gp/registry/wishlist/?ie=UTF8&ref_=topnav_storetab_wl",
+    "loadedUrl": null,
+    "uniqueKey": "https://www.amazon.com/gp/registry/wishlist?ie=UTF8&ref_=topnav_storetab_wl",
+    "method": "GET",
+    "payload": null,
+    "noRetry": false,
+    "retryCount": 0,
+    "errorMessages": null,
+    "headers": {},
+    "userData": {},
+    "handledAt": null,
+    "id": "qlLUDKoSlgl2WRn"
+}

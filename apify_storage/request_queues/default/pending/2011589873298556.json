@@ -1,0 +1,14 @@
+{
+    "url": "https://www.amazon.com/ap/forgotpassword?clientContext=134-4436067-6272643&showRememberMe=true&openid.pape.max_auth_age=900&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&siteState=clientContext%3D144-4661266-5983827%2CsourceUrl%3Dhttps%253A%252F%252Fwww.amazon.com%252Fideas%252Flists%2Csignature%3D7xdjXGcR2gc3Vc9ekl67N8Svv3Yj3D&marketPlaceId=ATVPDKIKX0DER&pageId=Amazon&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fideas%2Flists&prevRID=Z2DATM9K6GSG7KNFM78W&openid.assoc_handle=amzn_shoppable_us&openid.mode=checkid_setup&prepopulatedLoginId=&failedSignInCount=0&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0",
+    "loadedUrl": null,
+    "uniqueKey": "https://www.amazon.com/ap/forgotpassword?clientContext=134-4436067-6272643&failedSignInCount=0&marketPlaceId=ATVPDKIKX0DER&openid.assoc_handle=amzn_shoppable_us&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.pape.max_auth_age=900&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fideas%2Flists&pageId=Amazon&prepopulatedLoginId=&prevRID=Z2DATM9K6GSG7KNFM78W&showRememberMe=true&siteState=clientContext%3D144-4661266-5983827%2CsourceUrl%3Dhttps%253A%252F%252Fwww.amazon.com%252Fideas%252Flists%2Csignature%3D7xdjXGcR2gc3Vc9ekl67N8Svv3Yj3D",
+    "method": "GET",
+    "payload": null,
+    "noRetry": false,
+    "retryCount": 0,
+    "errorMessages": null,
+    "headers": {},
+    "userData": {},
+    "handledAt": null,
+    "id": "tlRdrRq98fVXgRr"
+}

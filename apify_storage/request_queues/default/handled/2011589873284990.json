@@ -1,0 +1,14 @@
+{
+    "id": "eIx6LMfaAKEVG9s",
+    "url": "https://www.amazon.com/gp/video/library?ref_=nav_AccountFlyout_yvl",
+    "loadedUrl": "https://www.amazon.com/ap/signin?_encoding=UTF8&accountStatusPolicy=P1&clientContext=134-4436067-6272643&openid.assoc_handle=usflex&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fvideo%2Flibrary%2Fref%3Ddv_web_auth_no_re_sig",
+    "uniqueKey": "https://www.amazon.com/gp/video/library?ref_=nav_AccountFlyout_yvl",
+    "method": "GET",
+    "payload": null,
+    "noRetry": false,
+    "retryCount": 0,
+    "errorMessages": null,
+    "headers": {},
+    "userData": {},
+    "handledAt": "2020-05-19T07:28:27.968Z"
+}

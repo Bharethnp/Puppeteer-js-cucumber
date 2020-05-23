@@ -1,0 +1,14 @@
+{
+    "id": "ScqawB2Kkin4C7k",
+    "url": "https://www.amazon.com/ir",
+    "loadedUrl": "https://ir.aboutamazon.com/overview/default.aspx",
+    "uniqueKey": "https://www.amazon.com/ir",
+    "method": "GET",
+    "payload": null,
+    "noRetry": false,
+    "retryCount": 0,
+    "errorMessages": null,
+    "headers": {},
+    "userData": {},
+    "handledAt": "2020-05-19T07:28:43.158Z"
+}

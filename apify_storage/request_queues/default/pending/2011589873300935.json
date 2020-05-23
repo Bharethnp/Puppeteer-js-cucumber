@@ -1,0 +1,14 @@
+{
+    "url": "https://www.amazon.com/gp/kyc/xborder/manageKyc?ref_=ya_d_l_kyc",
+    "loadedUrl": null,
+    "uniqueKey": "https://www.amazon.com/gp/kyc/xborder/manageKyc?ref_=ya_d_l_kyc",
+    "method": "GET",
+    "payload": null,
+    "noRetry": false,
+    "retryCount": 0,
+    "errorMessages": null,
+    "headers": {},
+    "userData": {},
+    "handledAt": null,
+    "id": "GVwIiGjCWMNm5pw"
+}

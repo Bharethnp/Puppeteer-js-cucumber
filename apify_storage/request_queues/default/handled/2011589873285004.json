@@ -1,0 +1,14 @@
+{
+    "id": "rfXMagXDTg298Vg",
+    "url": "https://www.amazon.com/gp/help/customer/accessibility",
+    "loadedUrl": "https://www.amazon.com/ap/signin?clientContext=134-4436067-6272643&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fhz%2Fcontact-us%2Faccessibility%3Ffrom%3Dgp%26*entries*%3D0%26_encoding%3DUTF8%26*Version*%3D1&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=amzn_contactus_desktop_us&openid.mode=checkid_setup&marketPlaceId=ATVPDKIKX0DER&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&pageId=Amazon&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.pape.max_auth_age=3600&siteState=clientContext%3D144-4661266-5983827%2CsourceUrl%3Dhttps%253A%252F%252Fwww.amazon.com%252Fhz%252Fcontact-us%252Faccessibility%253Ffrom%253Dgp%2526*entries*%253D0%2526_encoding%253DUTF8%2526*Version*%253D1%2Csignature%3DvOAeqdAEY4RpPutxH75t2h0dgJUj3D",
+    "uniqueKey": "https://www.amazon.com/gp/help/customer/accessibility",
+    "method": "GET",
+    "payload": null,
+    "noRetry": false,
+    "retryCount": 0,
+    "errorMessages": null,
+    "headers": {},
+    "userData": {},
+    "handledAt": "2020-05-19T07:28:32.875Z"
+}

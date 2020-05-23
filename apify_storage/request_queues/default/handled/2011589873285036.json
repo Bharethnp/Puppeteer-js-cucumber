@@ -1,0 +1,14 @@
+{
+    "id": "R3qxJUSJBW4OiZI",
+    "url": "https://www.amazon.com/gp/redirect.html?_encoding=UTF8&location=https%3A%2F%2Fsell.amazon.com%2Fprograms%2Fprofessional-services.html%3Fld%3DAZUSVAS-globalfooter%26ref_%3Dfooter_sell_svcs&source=standards&token=3F3E837D604928F43970DDF8BD769D68785D5977",
+    "loadedUrl": "https://sell.amazon.com/programs/professional-services.html?ld=AZUSVAS-globalfooter&ref_=footer_sell_svcs",
+    "uniqueKey": "https://www.amazon.com/gp/redirect.html?_encoding=UTF8&location=https%3A%2F%2Fsell.amazon.com%2Fprograms%2Fprofessional-services.html%3Fld%3DAZUSVAS-globalfooter%26ref_%3Dfooter_sell_svcs&source=standards&token=3F3E837D604928F43970DDF8BD769D68785D5977",
+    "method": "GET",
+    "payload": null,
+    "noRetry": false,
+    "retryCount": 0,
+    "errorMessages": null,
+    "headers": {},
+    "userData": {},
+    "handledAt": "2020-05-19T07:28:45.129Z"
+}

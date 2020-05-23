@@ -1,0 +1,14 @@
+{
+    "url": "https://www.amazon.com/gp/cobrandcard/apply.html?pr=sbcccore&inc=SBCCUNREC&ts=5o7nkg6oleu5t4dg0toq5s9qdbmcgy4&plattr=ACOMFO&place=ccmp_detailpage&imp=ab34bcdd-393e-4129-a9cd-af7c6ddb36e7&cv=0&cmt=0.0&cmp=0.0&sig=af49e98db1fa4bd3d090e40ab209eb24",
+    "loadedUrl": null,
+    "uniqueKey": "https://www.amazon.com/gp/cobrandcard/apply.html?cmp=0.0&cmt=0.0&cv=0&imp=ab34bcdd-393e-4129-a9cd-af7c6ddb36e7&inc=SBCCUNREC&place=ccmp_detailpage&plattr=ACOMFO&pr=sbcccore&sig=af49e98db1fa4bd3d090e40ab209eb24&ts=5o7nkg6oleu5t4dg0toq5s9qdbmcgy4",
+    "method": "GET",
+    "payload": null,
+    "noRetry": false,
+    "retryCount": 0,
+    "errorMessages": null,
+    "headers": {},
+    "userData": {},
+    "handledAt": null,
+    "id": "ltiORL66Cx6XLhG"
+}

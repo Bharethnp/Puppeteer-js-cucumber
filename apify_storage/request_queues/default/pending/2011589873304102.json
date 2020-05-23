@@ -1,0 +1,14 @@
+{
+    "url": "https://www.amazon.com/gp/sign-in.html/?path=/gp/your-garage&protocol=https&useRedirectOnSuccess=1&ref_=gar_si",
+    "loadedUrl": null,
+    "uniqueKey": "https://www.amazon.com/gp/sign-in.html?path=/gp/your-garage&protocol=https&ref_=gar_si&useRedirectOnSuccess=1",
+    "method": "GET",
+    "payload": null,
+    "noRetry": false,
+    "retryCount": 0,
+    "errorMessages": null,
+    "headers": {},
+    "userData": {},
+    "handledAt": null,
+    "id": "F5YaY66hY7rzBFW"
+}

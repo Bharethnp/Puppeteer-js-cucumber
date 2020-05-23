@@ -1,0 +1,14 @@
+{
+    "id": "iKCJF6c9IWTz7LY",
+    "url": "https://www.amazon.com/gp/help/customer/display.html/ref=aistrust6?ie=UTF8&nodeId=201182000",
+    "loadedUrl": "https://www.amazon.com/gp/help/customer/display.html/ref=aistrust6?ie=UTF8&nodeId=201182000",
+    "uniqueKey": "https://www.amazon.com/gp/help/customer/display.html/ref=aistrust6?ie=UTF8&nodeId=201182000",
+    "method": "GET",
+    "payload": null,
+    "noRetry": false,
+    "retryCount": 0,
+    "errorMessages": null,
+    "headers": {},
+    "userData": {},
+    "handledAt": "2020-05-19T07:28:40.326Z"
+}

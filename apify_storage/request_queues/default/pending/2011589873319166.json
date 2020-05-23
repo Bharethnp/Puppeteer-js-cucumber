@@ -1,0 +1,14 @@
+{
+    "url": "https://www.amazon.com/gp/prime/pipeline/prime_gifting_landing?ie=UTF8&formSubmit=Submit&ref=prime_mobile_landing_page",
+    "loadedUrl": null,
+    "uniqueKey": "https://www.amazon.com/gp/prime/pipeline/prime_gifting_landing?formSubmit=Submit&ie=UTF8&ref=prime_mobile_landing_page",
+    "method": "GET",
+    "payload": null,
+    "noRetry": false,
+    "retryCount": 0,
+    "errorMessages": null,
+    "headers": {},
+    "userData": {},
+    "handledAt": null,
+    "id": "1ubLFuA55jY1s1c"
+}

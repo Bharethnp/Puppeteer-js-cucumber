@@ -1,0 +1,14 @@
+{
+    "url": "https://www.amazon.com/ap/signin?clientContext=134-4436067-6272643&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fyourfanshop%2F%3Fref_%3Dsffs_sign_in&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=your_fan_shop_desktop_us&openid.mode=checkid_setup&marketPlaceId=ATVPDKIKX0DER&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&pageId=loginCheckout-your_fan_shop_desktop_us&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.pape.max_auth_age=3600&siteState=clientContext%3D144-4661266-5983827%2CsourceUrl%3Dhttps%253A%252F%252Fwww.amazon.com%252Fyourfanshop%252F%253Fref_%253Dsffs_sign_in%2Csignature%3DX9G2g9oAOHqOxtsdHi1gDMj2FEtWEj3D",
+    "loadedUrl": null,
+    "uniqueKey": "https://www.amazon.com/ap/signin?clientContext=134-4436067-6272643&marketPlaceId=ATVPDKIKX0DER&openid.assoc_handle=your_fan_shop_desktop_us&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.pape.max_auth_age=3600&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fyourfanshop%2F%3Fref_%3Dsffs_sign_in&pageId=loginCheckout-your_fan_shop_desktop_us&siteState=clientContext%3D144-4661266-5983827%2CsourceUrl%3Dhttps%253A%252F%252Fwww.amazon.com%252Fyourfanshop%252F%253Fref_%253Dsffs_sign_in%2Csignature%3DX9G2g9oAOHqOxtsdHi1gDMj2FEtWEj3D",
+    "method": "GET",
+    "payload": null,
+    "noRetry": false,
+    "retryCount": 0,
+    "errorMessages": null,
+    "headers": {},
+    "userData": {},
+    "handledAt": null,
+    "id": "piGY2MMo4TBl6iy"
+}

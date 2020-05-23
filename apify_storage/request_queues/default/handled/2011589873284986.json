@@ -1,0 +1,14 @@
+{
+    "id": "tuzdSHdjBDsdU5H",
+    "url": "https://www.amazon.com/clouddrive?ref_=nav_AccountFlyout_clddrv",
+    "loadedUrl": "https://www.amazon.com/ap/signin?clientContext=134-4436067-6272643&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&siteState=https%3A%2F%2Fwww.amazon.com%2Fclouddrive%3F_encoding%3DUTF8%26mgh%3D1%26ref_%3Dnav_AccountFlyout_clddrv&marketPlaceId=ATVPDKIKX0DER&pageId=amzn_drive_web_us&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fclouddrive%2Fauth&openid.assoc_handle=amzn_drive_web_us&openid.oa2.response_type=token&openid.mode=checkid_setup&openid.ns.oa2=http%3A%2F%2Fwww.amazon.com%2Fap%2Fext%2Foauth%2F2&openid.oa2.scope=clouddrive%3Aretailweb&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.oa2.client_id=iba%3Aamzn1.application-oa2-client.d45dc8aaf8fa47b0966a0dfbc75de512&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.pape.max_auth_age=172800",
+    "uniqueKey": "https://www.amazon.com/clouddrive?ref_=nav_AccountFlyout_clddrv",
+    "method": "GET",
+    "payload": null,
+    "noRetry": false,
+    "retryCount": 0,
+    "errorMessages": null,
+    "headers": {},
+    "userData": {},
+    "handledAt": "2020-05-19T07:28:25.436Z"
+}

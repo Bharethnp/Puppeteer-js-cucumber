@@ -1,0 +1,14 @@
+{
+    "id": "mXUjTYdGqaS8x7r",
+    "url": "https://www.amazon.com/gp/customer-preferences/select-currency/ref=aistrust3",
+    "loadedUrl": "https://www.amazon.com/gp/customer-preferences/select-currency/ref=aistrust3",
+    "uniqueKey": "https://www.amazon.com/gp/customer-preferences/select-currency/ref=aistrust3",
+    "method": "GET",
+    "payload": null,
+    "noRetry": false,
+    "retryCount": 0,
+    "errorMessages": null,
+    "headers": {},
+    "userData": {},
+    "handledAt": "2020-05-19T07:28:37.747Z"
+}

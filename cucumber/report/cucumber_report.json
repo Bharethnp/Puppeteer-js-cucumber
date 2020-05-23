@@ -1,0 +1,187 @@
+[
+  {
+    "description": "   I open google page",
+    "keyword": "Feature",
+    "name": "Launch",
+    "line": 1,
+    "id": "launch",
+    "tags": [],
+    "uri": "cucumber/features/launch.feature",
+    "elements": [
+      {
+        "id": "launch;launching-google",
+        "keyword": "Scenario",
+        "line": 4,
+        "name": "Launching google",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "match": {
+              "location": "cucumber/features/step_definitions/support/hooks.js:3"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2605000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 6,
+            "name": "I launch chrome",
+            "match": {
+              "location": "cucumber/features/step_definitions/launchstep.js:5"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 7,
+            "name": "I open google and enter search text",
+            "match": {
+              "location": "cucumber/features/step_definitions/launchstep.js:10"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1114000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 8,
+            "name": "I tap on link",
+            "match": {
+              "location": "cucumber/features/step_definitions/enter_text.js:4"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1382000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 9,
+            "name": "I close browser",
+            "match": {
+              "location": "cucumber/features/step_definitions/launchstep.js:15"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "cucumber/features/step_definitions/support/hooks.js:8"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 77000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "launch;launching-google-again",
+        "keyword": "Scenario",
+        "line": 12,
+        "name": "Launching google again",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "match": {
+              "location": "cucumber/features/step_definitions/support/hooks.js:3"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2432000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 14,
+            "name": "I launch chrome",
+            "match": {
+              "location": "cucumber/features/step_definitions/launchstep.js:5"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1000000
+            }
+          },
+          {
+            "arguments": [
+              {
+                "rows": [
+                  {
+                    "cells": [
+                      "text1",
+                      "text2",
+                      "text3"
+                    ]
+                  },
+                  {
+                    "cells": [
+                      "Favicon",
+                      "12345",
+                      "qwerty"
+                    ]
+                  }
+                ]
+              }
+            ],
+            "keyword": "Given ",
+            "line": 15,
+            "name": "I insert text details",
+            "match": {
+              "location": "cucumber/features/step_definitions/datatable.js:6"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2526000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 18,
+            "name": "I close browser",
+            "match": {
+              "location": "cucumber/features/step_definitions/launchstep.js:15"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "cucumber/features/step_definitions/support/hooks.js:8"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 72000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

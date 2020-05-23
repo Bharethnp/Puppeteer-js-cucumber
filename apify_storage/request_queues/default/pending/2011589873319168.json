@@ -1,0 +1,14 @@
+{
+    "url": "https://www.amazon.com/amazonprime?_encoding=UTF8&primeCampaignId=primeMobileSignupWhite&ref_=nav_prime_ajax_err&renderingType=mobile&showLandingPage=1#",
+    "loadedUrl": null,
+    "uniqueKey": "https://www.amazon.com/amazonprime?_encoding=UTF8&primeCampaignId=primeMobileSignupWhite&ref_=nav_prime_ajax_err&renderingType=mobile&showLandingPage=1",
+    "method": "GET",
+    "payload": null,
+    "noRetry": false,
+    "retryCount": 0,
+    "errorMessages": null,
+    "headers": {},
+    "userData": {},
+    "handledAt": null,
+    "id": "2oJu2R8AlwNSjQt"
+}

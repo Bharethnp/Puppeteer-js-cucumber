@@ -1,0 +1,14 @@
+{
+    "url": "https://www.amazon.com/gp/your-account/order-history?ref_=navm_ftr_yo",
+    "loadedUrl": null,
+    "uniqueKey": "https://www.amazon.com/gp/your-account/order-history?ref_=navm_ftr_yo",
+    "method": "GET",
+    "payload": null,
+    "noRetry": false,
+    "retryCount": 0,
+    "errorMessages": null,
+    "headers": {},
+    "userData": {},
+    "handledAt": null,
+    "id": "2S4STDO7pFbdfxb"
+}

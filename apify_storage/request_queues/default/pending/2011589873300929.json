@@ -1,0 +1,14 @@
+{
+    "url": "https://www.amazon.com/wishlist?ref_=ya_d_l_lists",
+    "loadedUrl": null,
+    "uniqueKey": "https://www.amazon.com/wishlist?ref_=ya_d_l_lists",
+    "method": "GET",
+    "payload": null,
+    "noRetry": false,
+    "retryCount": 0,
+    "errorMessages": null,
+    "headers": {},
+    "userData": {},
+    "handledAt": null,
+    "id": "yk9uuMeLuxQ7qk0"
+}

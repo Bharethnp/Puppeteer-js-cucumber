@@ -1,0 +1,14 @@
+{
+    "id": "RJLiyjz4wZHQBI3",
+    "url": "https://www.amazon.com/gp/customer-preferences/select-language/ref=footer_lang_t1_ais?ie=UTF8&preferencesReturnUrl=%2F",
+    "loadedUrl": "https://www.amazon.com/gp/customer-preferences/select-language/ref=footer_lang_t1_ais?ie=UTF8&preferencesReturnUrl=%2F",
+    "uniqueKey": "https://www.amazon.com/gp/customer-preferences/select-language/ref=footer_lang_t1_ais?ie=UTF8&preferencesReturnUrl=%2F",
+    "method": "GET",
+    "payload": null,
+    "noRetry": false,
+    "retryCount": 0,
+    "errorMessages": null,
+    "headers": {},
+    "userData": {},
+    "handledAt": "2020-05-19T07:28:50.487Z"
+}

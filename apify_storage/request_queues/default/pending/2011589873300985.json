@@ -1,0 +1,14 @@
+{
+    "url": "https://www.amazon.com/yourpets?ref_=ya_d_l_pet_profile",
+    "loadedUrl": null,
+    "uniqueKey": "https://www.amazon.com/yourpets?ref_=ya_d_l_pet_profile",
+    "method": "GET",
+    "payload": null,
+    "noRetry": false,
+    "retryCount": 0,
+    "errorMessages": null,
+    "headers": {},
+    "userData": {},
+    "handledAt": null,
+    "id": "eb8j1YESddqpcH8"
+}

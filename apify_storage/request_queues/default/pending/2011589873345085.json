@@ -1,0 +1,14 @@
+{
+    "url": "https://www.amazon.com/gp/customer-preferences/select-language/?preferencesReturnUrl=%2Famazonprime%3F_encoding%3DUTF8%26primeCampaignId%3DprimeMobileSignupWhite%26ref_%3Dnav_prime_ajax_err%26renderingType%3Dmobile%26showLandingPage%3D1&ref_=navm_em_0_1_1_12_mozart",
+    "loadedUrl": null,
+    "uniqueKey": "https://www.amazon.com/gp/customer-preferences/select-language?preferencesReturnUrl=%2Famazonprime%3F_encoding%3DUTF8%26primeCampaignId%3DprimeMobileSignupWhite%26ref_%3Dnav_prime_ajax_err%26renderingType%3Dmobile%26showLandingPage%3D1&ref_=navm_em_0_1_1_12_mozart",
+    "method": "GET",
+    "payload": null,
+    "noRetry": false,
+    "retryCount": 0,
+    "errorMessages": null,
+    "headers": {},
+    "userData": {},
+    "handledAt": null,
+    "id": "WH0StUG95pwF2Nw"
+}

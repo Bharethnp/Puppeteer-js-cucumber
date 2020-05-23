@@ -1,0 +1,14 @@
+{
+    "url": "https://www.amazon.com/ap/register?showRememberMe=true&openid.pape.max_auth_age=0&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&pageId=anywhere_us&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Faw%2Fpsi.html%3Fie%3DUTF8%26cartID%3D144-4661266-5983827%26destinationURL%3D%252Fgp%252Faw%252Fya%26packedQuery%3Dref_%257Cfooter_ya&prevRID=HSB8DV26262BVXRKKTBM&openid.assoc_handle=anywhere_v2_us&openid.mode=checkid_setup&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&prepopulatedLoginId=&failedSignInCount=0&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0",
+    "loadedUrl": null,
+    "uniqueKey": "https://www.amazon.com/ap/register?failedSignInCount=0&openid.assoc_handle=anywhere_v2_us&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Faw%2Fpsi.html%3Fie%3DUTF8%26cartID%3D144-4661266-5983827%26destinationURL%3D%252Fgp%252Faw%252Fya%26packedQuery%3Dref_%257Cfooter_ya&pageId=anywhere_us&prepopulatedLoginId=&prevRID=HSB8DV26262BVXRKKTBM&showRememberMe=true",
+    "method": "GET",
+    "payload": null,
+    "noRetry": false,
+    "retryCount": 0,
+    "errorMessages": null,
+    "headers": {},
+    "userData": {},
+    "handledAt": null,
+    "id": "BrVYjuVpTG1xc71"
+}

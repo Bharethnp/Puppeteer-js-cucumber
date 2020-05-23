@@ -1,0 +1,14 @@
+{
+    "id": "YrPxlCFBoSvABPK",
+    "url": "https://www.amazon.com/ideas?ref_=nav_ListFlyout_idea_nav",
+    "loadedUrl": "https://www.amazon.com/ap/signin?clientContext=134-4436067-6272643&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fideas%2Flists&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=amzn_shoppable_us&openid.mode=checkid_setup&marketPlaceId=ATVPDKIKX0DER&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&pageId=Amazon&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.pape.max_auth_age=900&siteState=clientContext%3D144-4661266-5983827%2CsourceUrl%3Dhttps%253A%252F%252Fwww.amazon.com%252Fideas%252Flists%2Csignature%3D7xdjXGcR2gc3Vc9ekl67N8Svv3Yj3D",
+    "uniqueKey": "https://www.amazon.com/ideas?ref_=nav_ListFlyout_idea_nav",
+    "method": "GET",
+    "payload": null,
+    "noRetry": false,
+    "retryCount": 0,
+    "errorMessages": null,
+    "headers": {},
+    "userData": {},
+    "handledAt": "2020-05-19T07:28:17.684Z"
+}

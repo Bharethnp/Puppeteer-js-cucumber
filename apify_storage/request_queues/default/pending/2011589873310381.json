@@ -1,0 +1,14 @@
+{
+    "url": "https://www.amazon.com/gp/video/auth-redirect/ref=atv_sf_wn_sign_in?signin=1&returnUrl=%2Fgp%2Fvideo%2Fdetail%2FB085T8KR5Z%2Fref%3Datv_sf_pb_core%3Fautoplay%3D1",
+    "loadedUrl": null,
+    "uniqueKey": "https://www.amazon.com/gp/video/auth-redirect/ref=atv_sf_wn_sign_in?returnUrl=%2Fgp%2Fvideo%2Fdetail%2FB085T8KR5Z%2Fref%3Datv_sf_pb_core%3Fautoplay%3D1&signin=1",
+    "method": "GET",
+    "payload": null,
+    "noRetry": false,
+    "retryCount": 0,
+    "errorMessages": null,
+    "headers": {},
+    "userData": {},
+    "handledAt": null,
+    "id": "ovdDFhMYvgVDMLP"
+}

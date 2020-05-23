@@ -1,0 +1,14 @@
+{
+    "id": "G9JNhgs6qzSi3wB",
+    "url": "https://www.amazon.com/gp/cart/view.html?ref_=nav_cart",
+    "loadedUrl": "https://www.amazon.com/gp/cart/view.html?ref_=nav_cart",
+    "uniqueKey": "https://www.amazon.com/gp/cart/view.html?ref_=nav_cart",
+    "method": "GET",
+    "payload": null,
+    "noRetry": false,
+    "retryCount": 0,
+    "errorMessages": null,
+    "headers": {},
+    "userData": {},
+    "handledAt": "2020-05-19T07:28:10.513Z"
+}

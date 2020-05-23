@@ -1,0 +1,14 @@
+{
+    "url": "https://www.amazon.com/gp/customer-preferences/select-currency?ie=UTF8&ref_=footer_cop&preferencesReturnUrl=%2Fref%3Dfooter_logoref%3Dfooter_logo",
+    "loadedUrl": null,
+    "uniqueKey": "https://www.amazon.com/gp/customer-preferences/select-currency?ie=UTF8&preferencesReturnUrl=%2Fref%3Dfooter_logoref%3Dfooter_logo&ref_=footer_cop",
+    "method": "GET",
+    "payload": null,
+    "noRetry": false,
+    "retryCount": 0,
+    "errorMessages": null,
+    "headers": {},
+    "userData": {},
+    "handledAt": null,
+    "id": "ee9dNoktbukk9qA"
+}

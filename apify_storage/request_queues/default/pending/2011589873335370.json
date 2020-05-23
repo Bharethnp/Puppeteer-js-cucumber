@@ -1,0 +1,14 @@
+{
+    "url": "https://www.amazon.com/gp/redirect.html?_encoding=UTF8&location=https%3A%2F%2Fwww.amazon.in%2F%3Fref%3Daismwebgw_intl_stripe_in&source=standards&token=F2EF1DF086600898D19B29B86A55321F3D5E94BC&pf_rd_s=grid-top-3&pf_rd_t=Gateway-AmazonGlobal&pf_rd_i=mobile&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=G86TA9CF6RH6Q2ZQFX7H&pf_rd_p=cdc28aa3-60b3-4f5f-bd68-79e63a6667ff",
+    "loadedUrl": null,
+    "uniqueKey": "https://www.amazon.com/gp/redirect.html?_encoding=UTF8&location=https%3A%2F%2Fwww.amazon.in%2F%3Fref%3Daismwebgw_intl_stripe_in&pf_rd_i=mobile&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=cdc28aa3-60b3-4f5f-bd68-79e63a6667ff&pf_rd_r=G86TA9CF6RH6Q2ZQFX7H&pf_rd_s=grid-top-3&pf_rd_t=Gateway-AmazonGlobal&source=standards&token=F2EF1DF086600898D19B29B86A55321F3D5E94BC",
+    "method": "GET",
+    "payload": null,
+    "noRetry": false,
+    "retryCount": 0,
+    "errorMessages": null,
+    "headers": {},
+    "userData": {},
+    "handledAt": null,
+    "id": "4FBhk5BLGGB7U37"
+}

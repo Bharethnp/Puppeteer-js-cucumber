@@ -1,0 +1,14 @@
+{
+    "id": "7Rr5FHALemHnolQ",
+    "url": "https://www.amazon.com/gp/kindle/ku/ku_central?ref_=nav_AccountFlyout_ku",
+    "loadedUrl": "https://www.amazon.com/ap/signin?clientContext=134-4436067-6272643&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fkindle-dbs%2Fku%2Fku-central%3Fref_%3Dnav_AccountFlyout_ku%26_encoding%3DUTF8&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=amzn_kplp_desktop_us&openid.mode=checkid_setup&marketPlaceId=ATVPDKIKX0DER&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&pageId=amzn_aui_light&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.pape.max_auth_age=86400&siteState=clientContext%3D144-4661266-5983827%2CsourceUrl%3Dhttps%253A%252F%252Fwww.amazon.com%252Fkindle-dbs%252Fku%252Fku-central%253Fref_%253Dnav_AccountFlyout_ku%2526_encoding%253DUTF8%2Csignature%3D9Mvj2B2DWWpoowOxuhjzvPqjj2B7tAkj3D",
+    "uniqueKey": "https://www.amazon.com/gp/kindle/ku/ku_central?ref_=nav_AccountFlyout_ku",
+    "method": "GET",
+    "payload": null,
+    "noRetry": false,
+    "retryCount": 0,
+    "errorMessages": null,
+    "headers": {},
+    "userData": {},
+    "handledAt": "2020-05-19T07:28:26.616Z"
+}

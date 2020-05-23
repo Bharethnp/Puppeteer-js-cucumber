@@ -1,0 +1,14 @@
+{
+    "id": "R6F8QuA7mCOvFBu",
+    "url": "https://www.amazon.com/fanshop?ref_=nav_AccountFlyout_yfs",
+    "loadedUrl": "https://www.amazon.com/yourfanshop?ref_=nav_AccountFlyout_yfs",
+    "uniqueKey": "https://www.amazon.com/fanshop?ref_=nav_AccountFlyout_yfs",
+    "method": "GET",
+    "payload": null,
+    "noRetry": false,
+    "retryCount": 0,
+    "errorMessages": null,
+    "headers": {},
+    "userData": {},
+    "handledAt": "2020-05-19T07:28:24.069Z"
+}

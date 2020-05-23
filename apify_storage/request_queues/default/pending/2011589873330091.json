@@ -1,0 +1,14 @@
+{
+    "url": "https://www.amazon.com/ap/signin?openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Faw%2Fd%2FB07984JN3L%2Fref%3Dcm_cr_dp_mb_vote_tr%3Fie%3DUTF8%26voteInstanceId%3DR10MWDXQ70MFYI%26voteValue%3D1%26csrfT%3DgvSrYOvO315kr9vYbEgYjOUixs8MyMu6w6N7%252FoUAAAABAAAAAF7DiqpyYXcAAAAA%252B4kUEk%252F7iMGR3xPcX6iU&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=usflex&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0",
+    "loadedUrl": null,
+    "uniqueKey": "https://www.amazon.com/ap/signin?openid.assoc_handle=usflex&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Faw%2Fd%2FB07984JN3L%2Fref%3Dcm_cr_dp_mb_vote_tr%3Fie%3DUTF8%26voteInstanceId%3DR10MWDXQ70MFYI%26voteValue%3D1%26csrfT%3DgvSrYOvO315kr9vYbEgYjOUixs8MyMu6w6N7%252FoUAAAABAAAAAF7DiqpyYXcAAAAA%252B4kUEk%252F7iMGR3xPcX6iU",
+    "method": "GET",
+    "payload": null,
+    "noRetry": false,
+    "retryCount": 0,
+    "errorMessages": null,
+    "headers": {},
+    "userData": {},
+    "handledAt": null,
+    "id": "3SfZBJXEMogjFVZ"
+}

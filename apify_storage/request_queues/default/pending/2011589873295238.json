@@ -1,0 +1,14 @@
+{
+    "url": "https://www.amazon.com/gp/customer-preferences/select-language/ref=topnav_lang_t1_ais?preferencesReturnUrl=%2Fgp%2Fclpf%3Fref_%3Dnav_ListFlyout_smi_se_ya_lll_ll",
+    "loadedUrl": null,
+    "uniqueKey": "https://www.amazon.com/gp/customer-preferences/select-language/ref=topnav_lang_t1_ais?preferencesReturnUrl=%2Fgp%2Fclpf%3Fref_%3Dnav_ListFlyout_smi_se_ya_lll_ll",
+    "method": "GET",
+    "payload": null,
+    "noRetry": false,
+    "retryCount": 0,
+    "errorMessages": null,
+    "headers": {},
+    "userData": {},
+    "handledAt": null,
+    "id": "pCewCrXwiBCqeWp"
+}

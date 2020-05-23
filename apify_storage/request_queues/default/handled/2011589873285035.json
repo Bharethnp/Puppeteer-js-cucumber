@@ -1,0 +1,14 @@
+{
+    "id": "MgQXGglJO1A3BVE",
+    "url": "https://www.amazon.com/gp/redirect.html?_encoding=UTF8&location=https%3A%2F%2Fsell.amazon.com%2F%3Fld%3DAZFSSOA%26ref_%3Dfooter_soa&source=standards&token=F8DC1C821506E40D2CFF1864EE5EC23698540D23",
+    "loadedUrl": "https://sell.amazon.com/?ld=AZFSSOA&ref_=footer_soa",
+    "uniqueKey": "https://www.amazon.com/gp/redirect.html?_encoding=UTF8&location=https%3A%2F%2Fsell.amazon.com%2F%3Fld%3DAZFSSOA%26ref_%3Dfooter_soa&source=standards&token=F8DC1C821506E40D2CFF1864EE5EC23698540D23",
+    "method": "GET",
+    "payload": null,
+    "noRetry": false,
+    "retryCount": 0,
+    "errorMessages": null,
+    "headers": {},
+    "userData": {},
+    "handledAt": "2020-05-19T07:28:44.126Z"
+}

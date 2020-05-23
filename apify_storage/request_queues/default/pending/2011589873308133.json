@@ -1,0 +1,14 @@
+{
+    "url": "https://www.amazon.com/ap/register?clientContext=134-4436067-6272643&showRememberMe=true&openid.pape.max_auth_age=86400&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&siteState=clientContext%3D144-4661266-5983827%2CsourceUrl%3Dhttps%253A%252F%252Fwww.amazon.com%252Fkindle-dbs%252Fku%252Fku-central%253Fref_%253Dnav_AccountFlyout_ku%2526_encoding%253DUTF8%2Csignature%3D9Mvj2B2DWWpoowOxuhjzvPqjj2B7tAkj3D&marketPlaceId=ATVPDKIKX0DER&pageId=amzn_aui_light&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fkindle-dbs%2Fku%2Fku-central%3Fref_%3Dnav_AccountFlyout_ku%26_encoding%3DUTF8&prevRID=9TJYKEJ8H4NX6JQRN5HV&openid.assoc_handle=amzn_kplp_desktop_us&openid.mode=checkid_setup&prepopulatedLoginId=&failedSignInCount=0&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0",
+    "loadedUrl": null,
+    "uniqueKey": "https://www.amazon.com/ap/register?clientContext=134-4436067-6272643&failedSignInCount=0&marketPlaceId=ATVPDKIKX0DER&openid.assoc_handle=amzn_kplp_desktop_us&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.pape.max_auth_age=86400&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fkindle-dbs%2Fku%2Fku-central%3Fref_%3Dnav_AccountFlyout_ku%26_encoding%3DUTF8&pageId=amzn_aui_light&prepopulatedLoginId=&prevRID=9TJYKEJ8H4NX6JQRN5HV&showRememberMe=true&siteState=clientContext%3D144-4661266-5983827%2CsourceUrl%3Dhttps%253A%252F%252Fwww.amazon.com%252Fkindle-dbs%252Fku%252Fku-central%253Fref_%253Dnav_AccountFlyout_ku%2526_encoding%253DUTF8%2Csignature%3D9Mvj2B2DWWpoowOxuhjzvPqjj2B7tAkj3D",
+    "method": "GET",
+    "payload": null,
+    "noRetry": false,
+    "retryCount": 0,
+    "errorMessages": null,
+    "headers": {},
+    "userData": {},
+    "handledAt": null,
+    "id": "mXVWF7OOn91zD2m"
+}

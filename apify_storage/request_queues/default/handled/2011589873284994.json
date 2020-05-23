@@ -1,0 +1,14 @@
+{
+    "id": "DCSPao1NX7La17f",
+    "url": "https://www.amazon.com/gp/mas/your-account/myapps?ref_=nav_AccountFlyout_aad",
+    "loadedUrl": "https://www.amazon.com/ap/signin?_encoding=UTF8&accountStatusPolicy=P1&openid.assoc_handle=usflex&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=900&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fmas%2Fyour-account%2Fmyapps%3Fie%3DUTF8%26ref_%3Dnav_AccountFlyout_aad",
+    "uniqueKey": "https://www.amazon.com/gp/mas/your-account/myapps?ref_=nav_AccountFlyout_aad",
+    "method": "GET",
+    "payload": null,
+    "noRetry": false,
+    "retryCount": 0,
+    "errorMessages": null,
+    "headers": {},
+    "userData": {},
+    "handledAt": "2020-05-19T07:28:29.680Z"
+}

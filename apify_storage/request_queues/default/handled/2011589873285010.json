@@ -1,0 +1,14 @@
+{
+    "id": "4DP7mEDpTrju55i",
+    "url": "https://www.amazon.com/gp/redirect.html?_encoding=UTF8&location=https%3A%2F%2Fwww.amazon.in%2F%3Fref%3Daisgw_intl_stripe_in&source=standards&token=91F73851318D7EEF2C0295B2C04EF4042B988FD2",
+    "loadedUrl": "https://www.amazon.in/?ref=aisgw_intl_stripe_in",
+    "uniqueKey": "https://www.amazon.com/gp/redirect.html?_encoding=UTF8&location=https%3A%2F%2Fwww.amazon.in%2F%3Fref%3Daisgw_intl_stripe_in&source=standards&token=91F73851318D7EEF2C0295B2C04EF4042B988FD2",
+    "method": "GET",
+    "payload": null,
+    "noRetry": false,
+    "retryCount": 0,
+    "errorMessages": null,
+    "headers": {},
+    "userData": {},
+    "handledAt": "2020-05-19T07:28:39.238Z"
+}
