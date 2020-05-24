@@ -30,3 +30,4 @@ class MyWorld {
 }
 
 setWorldConstructor(MyWorld);
+

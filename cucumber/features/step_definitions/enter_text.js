@@ -1,7 +1,8 @@
 const { Given, When, Then } = require("cucumber");
-const actionPage= require('../../../pages/actionPage');
+import {ActionPage} from '../../../pages/actionPage';
 
 Then("I tap on link", async function() {
 
-    await actionPage.perform(this.page);
+    let actionPage=new ActionPage();
+    await actionPage.perform();
 });

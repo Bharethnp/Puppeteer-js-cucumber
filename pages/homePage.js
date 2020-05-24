@@ -1,16 +1,28 @@
+import { PuppeteerLib } from "../puppeteer_library/PuppeteerLib";
+const browserLib = require("../puppeteer_library/browser_lib");
 
+class HomePage {
+  constructor() {
+    this.pupp = new PuppeteerLib(browserLib.page);
+  }
 
-async function home(page,searchText){
+  findElement = async () =>
+    this.pupp.findElement(
+      "#tsf > div:nth-child(2) > div.A8SBwf > div.RNNXgb > div > div.a4bIc > input"
+    );
 
-    await page.type("#tsf > div:nth-child(2) > div.A8SBwf > div.RNNXgb > div > div.a4bIc > input",searchText);
-    await page.keyboard.press('Enter');
+  enter = async () => this.pupp.enter();
+
+  async home(searchText) {
+    await (await this.findElement()).type(searchText);
+    await (await this.enter());
+  }
+
+  async details(text1, text2, text3) {
+    await (await this.findElement()).type(text1);
+    await (await this.findElement()).type(text2);
+    await (await this.findElement()).type(text3);
+  }
 }
 
-async function details(page,text1,text2,text3){
-
-    await page.type("#tsf > div:nth-child(2) > div.A8SBwf > div.RNNXgb > div > div.a4bIc > input",text1);
-    await page.type("#tsf > div:nth-child(2) > div.A8SBwf > div.RNNXgb > div > div.a4bIc > input",text2);
-    await page.type("#tsf > div:nth-child(2) > div.A8SBwf > div.RNNXgb > div > div.a4bIc > input",text3);
-}
-
-module.exports = {home,details};
+export { HomePage };

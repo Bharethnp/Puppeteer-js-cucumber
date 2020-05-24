@@ -1,5 +1,5 @@
 const {Given}=require('cucumber');
-const homePage= require('../../../pages/homePage');
+import {HomePage} from '../../../pages/homePage';
 
 
 
@@ -15,6 +15,7 @@ Given("I insert text details", async function(datatable) {
 
     });
 
-    await homePage.details(this.page,text1,text2,text3);
+    let homePage= new HomePage();
+    await homePage.details(text1,text2,text3);
     
 });
