@@ -1,14 +1,6 @@
 const puppeteer = require("puppeteer");
-const { setWorldConstructor } = require("cucumber");
 
-const url = "https://www.google.com";
-
-class MyWorld {
-  //Default constructor
-  constructor() {
-    this.MyWorld = "";
-  }
-
+class BrowserLib {
   async openBrowser() {
     //Browser
     this.browser = await puppeteer.launch({
@@ -18,12 +10,15 @@ class MyWorld {
 
     //Page
     this.page = await this.browser.newPage();
-    await this.page.goto(url);
   }
 
   async closeBrowser() {
     this.browser.close();
   }
+
+  async navigateTo(url) {
+    await this.page.goto(url, { waitUntil: "networkidle2" });
+  }
 }
 
-setWorldConstructor(MyWorld);
+module.exports = new BrowserLib();
