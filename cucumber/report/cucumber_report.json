@@ -24,7 +24,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 3598000000
+              "duration": 3432000000
             }
           },
           {
@@ -33,7 +33,7 @@
             "line": 6,
             "name": "I launch chrome",
             "match": {
-              "location": "cucumber/features/step_definitions/launchstep.js:5"
+              "location": "cucumber/features/step_definitions/launchstep.js:4"
             },
             "result": {
               "status": "passed",
@@ -46,11 +46,11 @@
             "line": 7,
             "name": "I open google and enter search text",
             "match": {
-              "location": "cucumber/features/step_definitions/launchstep.js:10"
+              "location": "cucumber/features/step_definitions/launchstep.js:8"
             },
             "result": {
               "status": "passed",
-              "duration": 1081000000
+              "duration": 1332000000
             }
           },
           {
@@ -63,7 +63,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1208000000
+              "duration": 1397000000
             }
           },
           {
@@ -72,7 +72,7 @@
             "line": 9,
             "name": "I close browser",
             "match": {
-              "location": "cucumber/features/step_definitions/launchstep.js:17"
+              "location": "cucumber/features/step_definitions/launchstep.js:13"
             },
             "result": {
               "status": "passed",
@@ -83,11 +83,11 @@
             "keyword": "After",
             "hidden": true,
             "match": {
-              "location": "cucumber/features/step_definitions/support/hooks.js:10"
+              "location": "cucumber/features/step_definitions/support/hooks.js:9"
             },
             "result": {
               "status": "passed",
-              "duration": 105000000
+              "duration": 102000000
             }
           }
         ]
@@ -108,7 +108,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 3471000000
+              "duration": 3106000000
             }
           },
           {
@@ -117,11 +117,11 @@
             "line": 14,
             "name": "I launch chrome",
             "match": {
-              "location": "cucumber/features/step_definitions/launchstep.js:5"
+              "location": "cucumber/features/step_definitions/launchstep.js:4"
             },
             "result": {
               "status": "passed",
-              "duration": 1000000
+              "duration": 0
             }
           },
           {
@@ -149,11 +149,11 @@
             "line": 15,
             "name": "I insert text details",
             "match": {
-              "location": "cucumber/features/step_definitions/datatable.js:6"
+              "location": "cucumber/features/step_definitions/datatable.js:4"
             },
             "result": {
               "status": "passed",
-              "duration": 2398000000
+              "duration": 2596000000
             }
           },
           {
@@ -162,7 +162,7 @@
             "line": 18,
             "name": "I close browser",
             "match": {
-              "location": "cucumber/features/step_definitions/launchstep.js:17"
+              "location": "cucumber/features/step_definitions/launchstep.js:13"
             },
             "result": {
               "status": "passed",
@@ -173,11 +173,11 @@
             "keyword": "After",
             "hidden": true,
             "match": {
-              "location": "cucumber/features/step_definitions/support/hooks.js:10"
+              "location": "cucumber/features/step_definitions/support/hooks.js:9"
             },
             "result": {
               "status": "passed",
-              "duration": 86000000
+              "duration": 96000000
             }
           }
         ]

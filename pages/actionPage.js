@@ -13,13 +13,16 @@ class ActionPage {
   findElement = async () =>
     this.pupp.findElement("#rso > div:nth-child(1) > div > div.r > a > h3");
 
-  /*  Funstions */
+  accessibility = async () => this.pupp.accessibility();
+
+  /*  Functions */
 
   async perform() {
     await await this.waitForPage();
     await await this.hover();
     const ele = await await this.findElement();
     await ele.click();
+    await await this.accessibility();
   }
 }
 

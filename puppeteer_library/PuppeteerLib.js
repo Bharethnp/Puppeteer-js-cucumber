@@ -45,6 +45,17 @@ class PuppeteerLib {
   async waitForSelector(cssSelector) {
     await this.page.waitForSelector(cssSelector);
   }
+
+  /* Xpath Example
+  const [storeInArrayElement] = await page.$x("//tagName[@attribute=value]");
+  await storeInArrayElement.type('pass anything');
+  */
+
+  async accessibility() {
+    const snap = await this.page.accessibility.snapshot();
+    console.info(snap);
+    return snap;
+  }
 }
 
 export { PuppeteerLib };

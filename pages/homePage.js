@@ -15,9 +15,17 @@ class HomePage {
 
   enter = async () => this.pupp.enter();
 
+  waitForSelelctor = async () =>
+    this.pupp.waitForSelector(
+      "#tsf > div:nth-child(2) > div.A8SBwf > div.RNNXgb > div > div.a4bIc > input"
+    );
+
+  accessibility = async () => this.pupp.accessibility();
+
   /*  Functions */
 
   async home(searchText) {
+    await await this.waitForSelelctor();
     await (await this.findElement()).type(searchText);
     await await this.enter();
   }
@@ -26,6 +34,8 @@ class HomePage {
     await (await this.findElement()).type(text1);
     await (await this.findElement()).type(text2);
     await (await this.findElement()).type(text3);
+    await await this.enter();
+    await await this.accessibility();
   }
 }
 

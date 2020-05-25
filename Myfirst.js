@@ -1,4 +1,5 @@
 const puppeteer = require('puppeteer');
+// const iPhone = puppeteer.devices['iPhone X'];
 
 (async () => {
 
@@ -22,6 +23,11 @@ const puppeteer = require('puppeteer');
         "height":10000
     });
 
+
+    /*Emulate
+       Iphone */
+    // await page.emulate(iPhone);
+
     await page.tracing.start({"path" : 'trace.json'});
     await page.goto("https://www.google.com",{"waitUntil":'networkidle2'});
     await page.type("#tsf > div:nth-child(2) > div.A8SBwf > div.RNNXgb > div > div.a4bIc > input","Favicon");
@@ -31,11 +37,16 @@ const puppeteer = require('puppeteer');
     });
     await page.hover("#rso > div:nth-child(1) > div > div.r > a > h3");
     const ele= await page.waitForSelector("#rso > div:nth-child(1) > div > div.r > a > h3");
+    // const ele= await page.waitForXPath("//*[@id='rso']/div[1]/div/div[1]/a/h3");
     await ele.click();
     await page.screenshot({"path":"screenshot.png"});
     await page.waitForResponse(response => {
         return response.request().resourceType() === "image"
         });
         await page.tracing.stop();
+
+        const snap = await page.accessibility.snapshot();
+        console.info(snap);
+
     await browser.close();
 })();
